@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gayan Chathuranga An Associate Software Engineer</h1>
 <h3 align="center">A passionate Fullstack Developer from Srilanka</h3>
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=gayan0226&label=Profile%20views&color=0e75b6&style=flat](https://avatars.githubusercontent.com/u/12345678?v=4)" alt="gayan0226" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
