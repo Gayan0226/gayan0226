@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Gayan Chathuranga</h1>
-<h3 align="center">A passionate Fulstack Developer from Srilanka</h3>
+<h1 align="center">Hi 👋, I'm Gayan Chathuranga An Associate Software Engineer</h1>
+<h3 align="center">A passionate Fullstack Developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gayan0226&label=Profile%20views&color=0e75b6&style=flat" alt="gayan0226" /> </p>
 
