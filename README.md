@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gayan Chathuranga An Associate Software Engineer</h1>
 <h3 align="center">A passionate Fullstack Developer from Srilanka</h3>
-
-
-<h3 align="left">Connect with me:</h3>
+<p> I’m a passionate Full Stack Developer specializing in Java Spring Boot, React, and Next.js.
+I have hands-on experience with Docker, HTML, CSS, and Microservice Architecture, focusing on building scalable, high-performance web applications.
+I enjoy learning new technologies and continuously improving my development skills.</p>
 <p align="left">
 </p>
 
